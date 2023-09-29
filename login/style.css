@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+ul.porno li img{
+    height: 250px;
+    width: 250px;
+    
+}
+
+ul.porno li{
+    position: relative;
+    left: 40%;
+}

@@ -1,0 +1,18 @@
+table{
+    background-color: rgb(241, 241, 241);
+    padding: auto;
+    margin: auto;
+}
+
+thead tr th{
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    color: rgb(0, 0, 0);
+}
+
+tbody tr td{
+    padding-left: 100px;
+    padding-right: 100px;
+    color: rgb(0, 0, 0);
+}

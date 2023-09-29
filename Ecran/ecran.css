@@ -1,0 +1,20 @@
+h2{
+    text-align: center;
+}
+
+a{
+    color: rgb(0, 47, 255);
+    text-decoration:none;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+a:hover{
+    color: red;
+    text-decoration: none;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+}
