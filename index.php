@@ -7,7 +7,7 @@
 </head>
 <body>
 
-        <h2>Bienvenue</h2>
+        <h2>Bienvenue sie la</h2>
 
 <?php
 $isAllowedToEnter = "Non";
